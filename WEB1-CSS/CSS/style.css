@@ -18,3 +18,9 @@ p {
 td {
    color: black;
 }
+
+/* Selector de decendente */
+
+p em {
+   color:indigo;
+}
