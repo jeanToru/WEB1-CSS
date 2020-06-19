@@ -3,3 +3,18 @@
 * {
    color: teal; 
 }
+
+/* Selector de etiquetas */
+
+h1 {
+   text-align: center;
+   color: deeppink;
+}
+
+p {
+   color: crimson;
+}
+
+td {
+   color: black;
+}
