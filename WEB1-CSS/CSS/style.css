@@ -24,3 +24,11 @@ td {
 p em {
    color:indigo;
 }
+
+/* Selector de clase */
+
+.Color{
+   color: green;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
