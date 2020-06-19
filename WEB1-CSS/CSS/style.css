@@ -32,6 +32,14 @@ p em {
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Selector de id */
+
 #tabla{
    text-align: right;
 }
+/* Selector de multiples */
+
+em, th, a{
+   font-size: x-large;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
